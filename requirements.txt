@@ -1,0 +1,12 @@
+# Python dependencies for the CANVAS PET analysis notebooks
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+openpyxl
+
+# Run the .ipynb notebooks locally
+jupyterlab
